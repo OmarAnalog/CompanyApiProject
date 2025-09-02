@@ -1,0 +1,13 @@
+2025-08-30 00:41:24.9062 INFO Returned company with id: b97e3258-3e01-4a4a-799a-08dde1c94688 from database.
+2025-08-30 00:41:30.0676 INFO Returned company with id: b97e3258-3e01-4a4a-799a-08dde1c94688 from database.
+2025-08-30 00:41:35.7805 INFO Returned company with id: b97e3258-3e01-4a4a-799a-08dde1c94688 from database.
+2025-08-30 00:41:37.7770 INFO Returned company with id: b97e3258-3e01-4a4a-799a-08dde1c94688 from database.
+2025-08-30 00:41:43.3678 INFO Returned company with id: b97e3258-3e01-4a4a-799a-08dde1c94688 from database.
+2025-08-30 00:41:45.0879 INFO Returned company with id: b97e3258-3e01-4a4a-799a-08dde1c94688 from database.
+2025-08-30 00:41:46.7198 INFO Returned company with id: b97e3258-3e01-4a4a-799a-08dde1c94688 from database.
+2025-08-30 00:41:48.4857 INFO Returned company with id: b97e3258-3e01-4a4a-799a-08dde1c94688 from database.
+2025-08-30 00:51:26.4082 INFO Company with id b97e3258-3e01-4a4a-799a-08dde1c94688 has been updated successfully.
+2025-08-30 00:51:36.4253 INFO Returned company with id: b97e3258-3e01-4a4a-799a-08dde1c94688 from database.
+2025-08-30 03:20:19.6537 INFO Returned company with id: b97e3258-3e01-4a4a-799a-08dde1c94688 from database.
+2025-08-30 03:20:26.6367 INFO Returned company with id: b97e3258-3e01-4a4a-799a-08dde1c94688 from database.
+2025-08-30 03:20:28.3974 INFO Returned company with id: b97e3258-3e01-4a4a-799a-08dde1c94688 from database.

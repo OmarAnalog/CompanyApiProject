@@ -1,0 +1,10 @@
+2025-08-28 11:53:41.5854 INFO Returned all employees for company with id: c9d4c053-49b6-410c-bc78-2d54a9991870.
+2025-08-28 11:53:50.2120 INFO Returned all employees for company with id: c9d4c053-49b6-410c-bc78-2d54a9991870.
+2025-08-28 11:53:56.5954 INFO Returned all employees for company with id: c9d4c053-49b6-410c-bc78-2d54a9991870.
+2025-08-28 11:56:31.8487 INFO Returned all employees for company with id: c9d4c053-49b6-410c-bc78-2d54a9991870.
+2025-08-28 11:56:40.9405 INFO Returned all employees for company with id: c9d4c053-49b6-410c-bc78-2d54a9991870.
+2025-08-28 11:56:46.5418 INFO Returned all employees for company with id: c9d4c053-49b6-410c-bc78-2d54a9991870.
+2025-08-28 11:57:07.4226 INFO Returned all employees for company with id: c9d4c053-49b6-410c-bc78-2d54a9991870.
+2025-08-28 15:06:22.6855 INFO Returned all companies from database.
+2025-08-28 15:33:32.3949 INFO Returned all companies from database.
+2025-08-28 15:33:46.1027 INFO Returned all companies from database.
